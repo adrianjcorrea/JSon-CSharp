@@ -25,21 +25,6 @@ namespace Capa_Presentacion
             respuesta = objUsuario != null ? "Bien" : "Mal";
             return respuesta;
         }
-
-        [WebMethod]
-        public static object getUsers()
-        {
-            List<Usuario> lista = new List<Usuario>();
-            lista.Add(new Usuario(1, "Jorge", "456"));
-            lista.Add(new Usuario(2, "Amelia", "741"));
-            lista.Add(new Usuario(3, "Geovanny", "9863"));
-            lista.Add(new Usuario(4, "Petter", "423"));
-            lista.Add(new Usuario(5, "Ríos", "758"));
-            lista.Add(new Usuario(6, "Ñato", "123"));
-            //string json = JsonConvert.SerializeObject(lista);            
-            object json = new { data = lista};
-
-            return json;
-        }
+        
     }
 }

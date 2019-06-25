@@ -72,3 +72,40 @@ F:\Geo\Programacion\C#\CRUD\SIS_WOLF\Capa_Presentacion\bin\Newtonsoft.Json.xml
 F:\Geo\Programacion\C#\CRUD\SIS_WOLF\Capa_Presentacion\obj\Debug\Capa_Presentacion.csprojResolveAssemblyReference.cache
 F:\Geo\Programacion\C#\CRUD\SIS_WOLF\Capa_Presentacion\obj\Debug\Capa_Presentacion.dll
 F:\Geo\Programacion\C#\CRUD\SIS_WOLF\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\obj\Debug\Capa_Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\obj\Debug\Capa_Presentacion.dll
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\ApplicationInsights.config
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\roslyn\csc.exe
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\roslyn\vbc.exe
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\Capa_Presentacion.dll.config
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\Capa_Presentacion.dll
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\Capa_Presentacion.pdb
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\Entidad.Seguridad.dll
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\Microsoft.AI.Web.dll
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\Newtonsoft.Json.dll
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\Entidad.Seguridad.pdb
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\Microsoft.AI.Web.xml
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jcorrea\Documents\Visual Studio 2015\Projects\C-sharp-ASP.NET-DataTables-AJAX-JSON\SIS_WOLF\Capa_Presentacion\bin\Newtonsoft.Json.xml
